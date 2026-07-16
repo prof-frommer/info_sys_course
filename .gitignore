@@ -14,3 +14,6 @@
 
 # macOS Finder metadata
 .DS_Store 
+
+# Visual Studio Code workspace file
+info_sys_course.code-workspace
