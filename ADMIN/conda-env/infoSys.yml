@@ -1,0 +1,14 @@
+name: infoSys
+channels:
+- conda-forge
+dependencies:
+- python
+- spyder
+- jupyterlab
+- numpy
+- pandas
+- matplotlib
+- requests
+- beautifulsoup4
+- seaborn
+- ipywidgets
