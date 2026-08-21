@@ -1,4 +1,4 @@
-# idm\_course
+# info\_sys\_course
 
 Course materials for Information Systems (USCGA course)
 
