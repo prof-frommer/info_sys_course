@@ -17,3 +17,9 @@
 
 # Visual Studio Code workspace file
 info_sys_course.code-workspace
+
+# Jupyter Notebooks and Extensions
+.virtual_documents/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
