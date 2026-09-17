@@ -9,6 +9,7 @@ Course materials for Information Systems (USCGA course)
 
 ## Repository history and updates (except for minor ones)
 
+* **2026-09-17** - added hw04 files
 * **2026-09-16** - added lec08 intro to database files
 * **2026-09-15** - added lec07 data cleaning files
 * **2026-09-08** - added lec05-06 webscraping files; added hw03-webscraping files
