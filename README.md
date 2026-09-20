@@ -9,6 +9,7 @@ Course materials for Information Systems (USCGA course)
 
 ## Repository history and updates (except for minor ones)
 
+* **2026-09-20** - added lec09 db-access-cont slides, subject to slight changes, more to be added
 * **2026-09-20** - added hw02 solutions
 * **2026-09-17** - added hw04 files
 * **2026-09-16** - added lec08 intro to database files
