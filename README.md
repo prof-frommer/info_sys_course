@@ -9,6 +9,7 @@ Course materials for Information Systems (USCGA course)
 
 ## Repository history and updates (except for minor ones)
 
+* **2026-10-03** - add midterm-exam info and practice-materials
 * **2026-10-01** - added hw06-sql and supporting files
 * **2026-09-30** - posted hw04-intro-database solutions and lec12-sql-joins-and-more materials
 * **2026-09-29** - posted hw03-webscraping solutions

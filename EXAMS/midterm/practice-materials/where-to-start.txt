@@ -1,0 +1,1 @@
+There are 2 exercises here.  Start the data analysis one with Sec_A_Data_Analysis_Blank.ipynb.  Start the Access one by reading Case 2 - Travel Light Databases.pdf and using the starter .accdb file.
