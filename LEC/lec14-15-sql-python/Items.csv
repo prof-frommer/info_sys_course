@@ -1,0 +1,10 @@
+Item ID,Item Name,Description,Price,Monthly?
+901,Single Cat Monthly,Monthly box of cat toys and treats,19.99,TRUE
+902,Multiple Cats Monthly,Monthly box of cat toys and treats for multiple cats,35.99,TRUE
+903,Toy of the month,Monthly unique cat toy,9.99,TRUE
+904,Treat of the month,Monthly mouth-watering cat treats,4.59,TRUE
+905,Organic litter,Totally organic and fragrance free litter,25.00,FALSE
+906,Cat Condo,6 foot tall condo with 3 platforms,219.99,FALSE
+907,Cat bowls,Multi-colored bowls with cat faces,18.99,FALSE
+908,Cat brush,Two sided cat brush,12.50,FALSE
+909,Flea comb,Fine-toothed comb for flea control,5.99,FALSE
