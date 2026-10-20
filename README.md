@@ -8,7 +8,7 @@ Course materials for Information Systems (USCGA course)
 **See `ADMIN/Accessing Course Content using GitHub.docx` for guidance on using this repo.**  Ask me if you have any questions.
 
 ## Repository history and updates (except for minor ones)
-
+* **2026-10-20** - midterm grade info posted in ADMIN
 * **2026-10-06** - added hw06 part I solutions and feline accdb file from class today with queries filled in
 * **2026-10-06** - added materials on lec13-sql-recap-creating-tables and lec14-15-sql-python
 * **2026-10-03** - added midterm-exam info and practice-materials
