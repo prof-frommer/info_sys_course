@@ -8,6 +8,7 @@ Course materials for Information Systems (USCGA course)
 **See `ADMIN/Accessing Course Content using GitHub.docx` for guidance on using this repo.**  Ask me if you have any questions.
 
 ## Repository history and updates (except for minor ones)
+* **2026-10-29** - added lec18-VBA-1 materials
 * **2026-10-29** - added quiz04
 * **2026-10-27** - added hw07-dss materials
 * **2026-10-22** - added lec16-17 decision support systems materials
