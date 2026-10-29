@@ -1,0 +1,4 @@
+{
+	"markdown-pdf.sanitize": "gfm-allow-style",
+	"r.lsp.promptToInstall": false
+}
