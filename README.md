@@ -8,6 +8,7 @@ Course materials for Information Systems (USCGA course)
 **See `ADMIN/Accessing Course Content using GitHub.docx` for guidance on using this repo.**  Ask me if you have any questions.
 
 ## Repository history and updates (except for minor ones)
+* **2026-11-3**  - added lec19-VBA-II materials
 * **2026-11-3**  - added quiz04-sql-python solutions
 * **2026-10-30** - added Smithsonian AI article to ADMIN/other-articles
 * **2026-10-29** - added lec18-VBA-1 materials
