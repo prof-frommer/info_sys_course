@@ -8,6 +8,7 @@ Course materials for Information Systems (USCGA course)
 **See `ADMIN/Accessing Course Content using GitHub.docx` for guidance on using this repo.**  Ask me if you have any questions.
 
 ## Repository history and updates (except for minor ones)
+* **2026-11-19** - added lec22-VBA-V-access-and-vba class  materials
 * **2026-11-17** - added lec21-VBA-IV-forms-continued materials
 * **2026-11-11** - added more lec20-VBA-III materials
 * **2026-11-10** - added lec20-VBA-III materials and final project assignment
